@@ -1,7 +1,7 @@
 # Instruction for using scripts
 
 ## [1]-Netscan
-<br><hr>
+<br>
 ### Dependence for: pip install scapy
 <br>
 ### How to use:
