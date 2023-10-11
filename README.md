@@ -4,4 +4,4 @@
 <br>
 Dependence for: pip install scapy
 How to use:
-´netscan.py IPRange´
+`netscan.py IPRange`
